@@ -11,3 +11,35 @@ font-face {
     justify-content: space-between;
     align-items: center;
 }
+
+.presentation {
+    border: 1px solid blue
+}
+
+.body {
+    border: 1px solid orange;
+}
+
+
+.box {
+    border: 1px solid green;
+    height: 50px;
+    width: 50px;
+}
+
+.quote {
+    border: 1px solid gray
+}
+
+.callto {
+    border: 1px solid red;
+    padding: 50px;
+}
+
+.signupbox {
+    border: 1px solid blue
+}
+
+.footer {
+    border: 1px solid yellow;
+}
